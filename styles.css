@@ -29,7 +29,7 @@ a{
 }
 
 a:hover{
-    color: rgb(132, 14, 201);
+    color: rgb(252, 186, 3);
     transition: 0.3s all;
 }
 
@@ -40,7 +40,7 @@ a:hover{
 }
 
 #inscreva-se-btn:hover{
-    background-color: rgb(132, 14, 201);
+    background-color: rgb(252, 186, 3);
     color: white;
 }
 
